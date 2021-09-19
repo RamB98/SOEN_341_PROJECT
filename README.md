@@ -26,7 +26,6 @@ Team Members
  • Derek Dorrance<br>
  • Mohammed Al-Taie<br>
 
-hello
 
 
 Technologies
