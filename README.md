@@ -7,7 +7,9 @@ Objective
 
 
 Core Features
-
+-Asking and answering questions
+-Voting on the answers
+-Accepting the best answer
 
 
 Project
