@@ -21,7 +21,7 @@ Team Members
 
  • Ramzi Boucetta<br/>
  • Samson Kaller<br/>
- • Paul Westenberg (paulwestenberg)<br>
+ • Paul Westenberg (paulwestenberg   )<br>
  • Alexandre Vallières (SniffyMcTasty)<br> 
  • Derek Dorrance<br>
  • Mohammed Al-Taie<br>
