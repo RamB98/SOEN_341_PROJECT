@@ -6,9 +6,9 @@ Description
 Objective 
 
 
-Core Features
--Asking and answering questions
--Voting on the answers
+Core Features<br/>
+-Asking and answering questions<br/>
+-Voting on the answers<br/>
 -Accepting the best answer
 
 
@@ -19,8 +19,8 @@ Project
 
 Team Members
 
- • Ramzi Boucetta
- • Samson Kaller
+ • Ramzi Boucetta<br/>
+ • Samson Kaller<br/>
  • Paul Westenberg (paulwestenberg)
  
 
