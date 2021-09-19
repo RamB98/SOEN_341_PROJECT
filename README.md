@@ -3,8 +3,8 @@
 Description
 
 
-Objective 
-To create a website similar to stackoverflow.
+Objective <br/>
+To develop a website similar to the Q&A site StackOverflow.
 
 Core Features<br/>
 -Asking and answering questions<br/>
