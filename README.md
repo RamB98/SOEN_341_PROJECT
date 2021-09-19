@@ -1,28 +1,14 @@
 # SOEN_341_PROJECT
 
-
-Objective 
-
-
-
-
-
+Objective
 
 Project
 
-
-
-
 Team Members
 
- • Ramzi Boucetta
- • Samson Kaller
- paul westenberg
-
+• Ramzi Boucetta
+• Samson Kaller
+paul westenberg
+• Mohammed Al-Taie
 
 Technologies
-
-
-
-
-
