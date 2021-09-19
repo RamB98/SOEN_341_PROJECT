@@ -18,6 +18,7 @@ Team Members
  • Ramzi Boucetta
  • Samson Kaller
  • Paul Westenberg
+ • Derek Dorrance
 
 
 Technologies
