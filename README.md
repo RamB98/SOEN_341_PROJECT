@@ -1,10 +1,12 @@
 # SOEN_341_PROJECT
 
+Description
+
 
 Objective 
 
 
-
+Core Features
 
 
 
@@ -18,8 +20,9 @@ Team Members
  • Ramzi Boucetta
  • Samson Kaller
  • Paul Westenberg (paulwestenberg)
- • Derek Dorrance
  
+
+
 
 
 Technologies
