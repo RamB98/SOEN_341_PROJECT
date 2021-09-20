@@ -9,7 +9,7 @@ To develop a website similar to the Q&A site StackOverflow. We will build a webs
 Core Features<br/>
 -Asking and answering questions<br/>
 -Voting on the answers<br/>
--Accepting the best answer
+-Accepting the best answer<br/>
 
 
 Project
@@ -29,9 +29,9 @@ Team Members
 
 
 
-Technologies
+Language and Technologies
 
-
+To build the website, we will use a combination of html, css as well as java. We will document, code as well as share said code on GitHub. 
 
 
 
