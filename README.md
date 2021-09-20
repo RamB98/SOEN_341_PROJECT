@@ -22,6 +22,7 @@ Team Members
 • Alexandre Vallières (SniffyMcTasty)<br/>
 • Derek Dorrance<br/>
 • Mohammed Al-Taie(GitHub:MohammedAltaiee)<br/>
+• Mouhamed Boubacar Diane<br/>
 
 Language and Technologies
 
