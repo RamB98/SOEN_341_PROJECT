@@ -10,11 +10,11 @@ The objective of this project is to develop a website similar to the Q&A site St
 
 <h2>Core Features along with their user stories</h2><br/>
 -Asking and answering questions<br/>
-    Asking and answering questions: As a forum user, I want to be able to post a question and be able to receive helpful responses. <br/>
+    As a forum user, I want to be able to post a question and be able to receive helpful responses. <br/>
 -Voting on the answers<br/>
-    Voting on the answers: As a web user, I want to be able to vote on answers to be able to contribute to popular and prominent responses to forum questions.<br/>
+    As a web user, I want to be able to vote on answers to be able to contribute to popular and prominent responses to forum questions.<br/>
 -Accepting the best answer<br/>
-    Accepting the best answer: As a academics user, I want to be able to see reliable responses on a forum that have the most positive votes.<br/>
+    As a academics user, I want to be able to see reliable responses on a forum that have the most positive votes.<br/>
 -Another final feature that we have yet to discuss <br/>
 
 <h2>Project</h2>
