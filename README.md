@@ -8,10 +8,13 @@ This project consists in building a question and answer website, similar to stac
 <h2>Objective</h2> <br/>
 The objective of this project is to develop a website similar to the Q&A site StackOverflow.  We will build a website with three core features as well as a fourth feature that we will mention later on. Furthermore, another objective will be to understand the value of sprints and teamwork as well as to further our knowledge of software processes.
 
-<h2>Core Features </h2><br/>
+<h2>Core Features along with their user stories</h2><br/>
 -Asking and answering questions<br/>
+    Asking and answering questions: As a forum user, I want to be able to post a question and be able to receive helpful responses.
 -Voting on the answers<br/>
+    Voting on the answers: As a web user, I want to be able to vote on answers to be able to contribute to popular and prominent responses to forum questions.
 -Accepting the best answer<br/>
+    Accepting the best answer: As a academics user, I want to be able to see reliable responses on a forum that have the most positive votes.
 -Another final feature that we have yet to discuss <br/>
 
 <h2>Project</h2>
@@ -38,4 +41,4 @@ To build the website, we will use a combination of html, css as well as java. We
 - Sunday September 19th, Discord meeting:
     Created repo, explained the description of the project, the objective and technologies we will use. All members were familiarized with github as we all individually added our names using a commit. 
 - Thursday September 23rd, In person meeting:
-    
+
